@@ -1,0 +1,3 @@
+[submodule "lib/openai"]
+	path = lib/openai
+	url = https://github.com/olrea/openai-cpp
