@@ -1,11 +1,13 @@
 <h1 align="center">Welcome to cli-gpt 👋</h1>
-<p>
+<p align="center">
   <a href="https://github.com/filippofinke/cli-gpt/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
 
 > cli-gpt is a command line tool that uses the power of GPT language model to translate natural language text into executable commands. With cli-gpt, you can communicate with your computer in plain English and get things done quickly and efficiently without having to memorize complicated commands or syntax.
+
+<img alt="Demo GIF" src="https://user-images.githubusercontent.com/37296364/227491631-9a20d5d9-49d0-4005-a0b3-02cd8b2bdb71.gif" />
 
 ### 🏠 [Homepage](https://github.com/filippofinke/cli-gpt)
 
