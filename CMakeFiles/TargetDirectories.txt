@@ -1,7 +1,0 @@
-/Users/filippofinke/Desktop/Progetti/gpt-cli/CMakeFiles/gpt_cli.dir
-/Users/filippofinke/Desktop/Progetti/gpt-cli/CMakeFiles/edit_cache.dir
-/Users/filippofinke/Desktop/Progetti/gpt-cli/CMakeFiles/rebuild_cache.dir
-/Users/filippofinke/Desktop/Progetti/gpt-cli/CMakeFiles/list_install_components.dir
-/Users/filippofinke/Desktop/Progetti/gpt-cli/CMakeFiles/install.dir
-/Users/filippofinke/Desktop/Progetti/gpt-cli/CMakeFiles/install/local.dir
-/Users/filippofinke/Desktop/Progetti/gpt-cli/CMakeFiles/install/strip.dir
