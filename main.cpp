@@ -29,7 +29,7 @@ int main(int argc, char *argv[]) {
     openai::Json completion;
     try {
     completion = openai::completion().create({
-                                                          {"model", "text-davinci-003"},
+                                                          {"model", "gpt-3.5-turbo-instruct"},
                                                           {"prompt", prompt + description},
                                                           {"max_tokens", 100},
                                                           {"temperature", 0}
